@@ -1,0 +1,35 @@
+.not-found-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+.not-found-card1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.not-found-logo {
+  height: 200px;
+}
+.title-p {
+  font-size: 40px;
+  color: #ffffff;
+}
+.title-p2 {
+  font-size: 40px;
+}
+.title1-p1 {
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+}
+.title1-p2 {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
